@@ -1,0 +1,38 @@
+**Thread: Dive into Interest Protocol with Movement Labs Integration 🚀**
+
+1/6 🌐 **Introduction to Interest Protocol**  
+Interest Protocol is a decentralized finance (DeFi) platform that offers innovative solutions for yield generation and lending. With its latest integration with Movement Labs, it’s pushing the boundaries of what’s possible in DeFi.
+
+2/6 📜 **Move Language Overview**  
+Movement Labs uses the Move programming language, designed for secure and efficient smart contract development. Move provides a strong type system and formal verification to ensure reliability and security in smart contracts.
+
+3/6 🔍 **Key Features of Move**  
+- **Resource Types:** Move’s resource types ensure that assets are used in a controlled manner, preventing double-spending.
+- **Formal Verification:** The language supports formal verification methods, allowing for rigorous security checks of smart contracts.
+
+4/6 🛠️ **Example Code from GitHub**  
+Here’s a snippet from the [Interest Protocol GitHub repository](https://github.com/InterestProtocol/interest-protocol) showcasing a Move-based smart contract:
+
+```move
+module InterestProtocol::Vault {
+    public fun deposit(amount: u64) {
+        // Code to deposit assets into the vault
+    }
+
+    public fun withdraw(amount: u64) {
+        // Code to withdraw assets from the vault
+    }
+
+    public fun calculate_interest(amount: u64): u64 {
+        // Code to calculate interest on deposited assets
+    }
+}
+```
+
+5/6 🧩 **Integration Details**  
+The integration with Movement Labs introduces new Move-based modules for interest calculation, lending protocols, and liquidity management. This enhances the overall functionality and security of Interest Protocol.
+
+6/6 🔗 **Explore More**  
+For in-depth technical details and to contribute, visit the [Interest Protocol GitHub repository](https://github.com/InterestProtocol/interest-protocol) and explore the Move language documentation on the [Move GitHub page](https://github.com/libra/move).
+
+Stay tuned for more updates as Interest Protocol continues to innovate with Movement Labs! 🌟
